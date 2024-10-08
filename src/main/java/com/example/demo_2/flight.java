@@ -6,5 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class flight {
     @GetMapping("/flight")
-    public String getData() {return  "Welcome to Devops Class" ; }
+    public String getData() {return  "Welcome to Devops Class learn more and more" ; }
 }
