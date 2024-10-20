@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class flight {
-    @GetMapping("/flight")
-    public String getData() {return  "Welcome to Devops Class learn more and more" ; }
+public class aws {
+    @GetMapping("/aws")
+    public String getData() {return  "It is amazon web service" ; }
 }
